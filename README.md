@@ -13,7 +13,7 @@ Estudando de Engenharia Eletrônica,Apaixonado por tecnologia, engenharia e por 
 
 ## Minhas Linguagens mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitsbygui&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Tecnologias que estou estudando no momento
 
