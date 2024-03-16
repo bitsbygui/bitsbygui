@@ -8,7 +8,7 @@ Estudando de Engenharia Eletrônica,Apaixonado por tecnologia, engenharia e por 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([guilhermealvesskr@gmail.com](https://www.instagram.com/_guilhermeallves/))
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealvessilva/)
 
-![Guilherme Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=bitsbygui&show_icons=true&theme=dracula)
+![Guilherme Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=bitsbygui&show_icons=true&theme=radical)
 
 
 ## Minhas Linguagens mais Usadas
